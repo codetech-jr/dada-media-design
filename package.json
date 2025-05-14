@@ -1,0 +1,14 @@
+{
+  "name": "minify-tutorial",
+  "version": "1.0.0",
+  "description": "script.js",
+  "main": "script.js",
+  "scripts": {
+    "test": "minify"
+  },
+  "keywords": [
+    "minify"
+  ],
+  "author": "javascript",
+  "license": "ISC"
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Página principal -->
+    <url>
+        <loc>https://www.dadamediadesign.com/</loc>
+        <lastmod>2024-11-15</lastmod>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Sección de servicios -->
+    <url>
+        <loc>https://www.dadamediadesign.com/#pricing</loc>
+        <lastmod>2024-11-15</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Sección de portafolio -->
+    <url>
+        <loc>https://www.dadamediadesign.com/#portfolio</loc>
+        <lastmod>2024-11-15</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Sección de preguntas frecuentes (FAQs) -->
+    <url>
+        <loc>https://www.dadamediadesign.com/#faq</loc>
+        <lastmod>2024-11-15</lastmod>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Sección de contacto -->
+    <url>
+        <loc>https://www.dadamediadesign.com/#contact</loc>
+        <lastmod>2024-11-15</lastmod>
+        <priority>0.7</priority>
+    </url>
+</urlset>

@@ -1,0 +1,9 @@
+# Archivo robots.txt para Dadá Media Design
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /assets/
+Allow: /
+
+# Sitemap
+Sitemap: https://www.dadamediadesign.com/sitemap.xml
