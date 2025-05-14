@@ -1610,7 +1610,7 @@ footer .footer-container .second-part .red-socials-container .red-socials-list .
     cursor: pointer;
     background-color: transparent;
     border: none;
-    width: 29rem;
+    width: 34rem;
 }
 
 #close-menu-btn {
@@ -1707,7 +1707,7 @@ footer .footer-container .second-part .red-socials-container .red-socials-list .
         }
 
         .container .btn{
-            margin-right: 6.5rem;
+            margin-right: 0.5rem;
             padding: 0.5rem 0.5rem;
         }
     
@@ -1781,6 +1781,10 @@ footer .footer-container .second-part .red-socials-container .red-socials-list .
     
         .service-two-container{
             margin-top: 1.25vw;
+        }
+
+        #theme-toggle {
+            top: 70px;
         }
     
         .paragraph-service {
