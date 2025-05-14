@@ -1784,7 +1784,8 @@ footer .footer-container .second-part .red-socials-container .red-socials-list .
         }
 
         #theme-toggle {
-            top: 70px;
+            top: 13px;
+            right: 150px;
         }
     
         .paragraph-service {
